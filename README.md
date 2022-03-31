@@ -1,4 +1,4 @@
-# ProMan (sprint 1)
+# ProMan
 
 ## Story
 
@@ -42,7 +42,7 @@ glance, where functionality is straightforward, and the application looks nice o
 As this is [usually](media/web-python/specification-vs-reality.png) the case.
 Let's get this job done.
 
-## What are you going to learn?
+## What are learnt from the project
 
 - Create an advanced Flask project.
 - Understand the practical usage of AJAX.
