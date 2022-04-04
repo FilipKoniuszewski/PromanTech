@@ -1,5 +1,7 @@
 # ProMan
 
+- Codecool Project
+
 ## Story
 
 ### An email from the client
@@ -52,4 +54,11 @@ Let's get this job done.
 ## Final Result of our project can be found in below link :):
 
 ## https://promanfjj.herokuapp.com/
+
+## Contributors:
+- [Filip Koniuszewski](https://github.com/FilipKoniuszewski)
+- [Jakub Jaroszewicz](https://github.com/JakJar)
+- [Jakub Młocek](https://github.com/mlocekjakub)
+
+
 
