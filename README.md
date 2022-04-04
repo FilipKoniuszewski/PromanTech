@@ -44,7 +44,7 @@ glance, where functionality is straightforward, and the application looks nice o
 As this is [usually](media/web-python/specification-vs-reality.png) the case.
 Let's get this job done.
 
-## What are learnt from the project
+## What have we learned?
 
 - Create an advanced Flask project.
 - Understand the practical usage of AJAX.
