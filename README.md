@@ -60,5 +60,8 @@ Let's get this job done.
 - [Jakub Jaroszewicz](https://github.com/JakJar)
 - [Jakub Młocek](https://github.com/mlocekjakub)
 
+<img src="https://user-images.githubusercontent.com/82803009/161576138-3a95ae9f-a769-4dbd-86eb-83e05b4358e9.png" height="200">
+
+
 
 
